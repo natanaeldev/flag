@@ -1,0 +1,27 @@
+ .col {
+     height: 100px;
+ }
+
+ .color {
+     height: 150px;
+ }
+
+ .escudo {
+     background: url(imagenes/Escudo.png)no-repeat;
+     background-position: center;
+     background-size: 53%;
+
+ }
+
+ .nav ul li {
+     list-style: none;
+     float: left;
+     width: 100px;
+     text-decoration: none;
+ }
+
+ /* container */
+
+ .container {
+     margin-top: 10px;
+ }
